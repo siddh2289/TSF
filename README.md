@@ -1,2 +1,0 @@
-# TSF
-The Sparks Foundation 
